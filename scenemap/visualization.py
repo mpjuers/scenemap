@@ -31,6 +31,7 @@ def generate_figure(df, connections="artist", *args):
         x_range=(-1.1, 1.1), y_range=(-1.1, 1.1),
         tooltips=TOOLTIPS
     )
+    # Will error if there are NaNs.
     df_formatted = _format(df, connections, *args).dropna()
     G = nx.from_pandas_edgelist(
         df_formatted, "artist", "value"
