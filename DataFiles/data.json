@@ -1,0 +1,79 @@
+[
+    {
+        "artist": "Chelsea Wolfe",
+        "band_members": [
+            "Chelsea Wolfe",
+            "Ben Chisholm",
+            "Jess Gowrie",
+            "Bryan Tulao",
+            "Fred Sablan",
+            "Troy Van Leeuwen",
+            "Dylan Fujioka",
+            "Kevin Dockter",
+            "Andrea Calderon",
+            "Ezra Buchla",
+            "Drew Walker",
+            "Addison Quarles",
+            "Aurielle Zeitler",
+            "Mike Sullivan"
+        ],
+        "associated_acts": [
+            "Mrs. Piss",
+            "Converge"
+        ],
+        "genres": [
+            "folk",
+            "doom",
+            "metal",
+            "gothic",
+            "rock",
+            "experimental"
+        ],
+        "labels": [
+            "Pendu Sound Recordings",
+            "Sargent House",
+            "Southern"
+        ]
+    },
+    {
+        "artist": "Mrs. Piss",
+        "members": [
+            "Chelsea Wolfe",
+            "Jess Gowrie"
+        ],
+        "labels": [
+            "Sargent House"
+        ]
+    },
+    {
+        "artist": "Converge",
+        "members": [
+            "Jacob Bannon",
+            "Kurt Ballou",
+            "Nate Newton",
+            "Ben Koller",
+            "Jeff Feinberg",
+            "Damon Bellorado"
+        ],
+        "associated_acts": [
+            "Supermachiner",
+            "Wear Your Wounds",
+            "Cave In",
+            "Bane",
+            "Cave In",
+            "Chelsea Wolfe"
+        ],
+        "labels": [
+            "Equal Vision",
+            "Deathwish",
+            "Epitaph"
+        ],
+        "genres": [
+            "metalcore",
+            "hardcore punk",
+            "mathcore",
+            "post-hardcore"
+        ]
+    }
+]
+
