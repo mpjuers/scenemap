@@ -153,7 +153,8 @@ class Scraper:
 
             # playlist_tracks_merged = jsm.merge(*tracks_playlists)
 
-            # return jsm.merge(*album_tracks_merged, *playlist_tracks_merged)
+        # return jsm.merge(*album_tracks_merged, *playlist_tracks_merged)
+        return 0
 
 
 def main():
